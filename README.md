@@ -5,3 +5,4 @@ This website contains few recipes of my favorite foods. This is final project fr
 ## Skills Learned
 
 - HTML
+- CSS
